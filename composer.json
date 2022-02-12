@@ -1,5 +1,5 @@
 {
-    "name": "zhujia18/chevereto",
+    "name": "MapleNe/chevereto-fix",
     "description": "Chevereto image hosting upload extension for the Flarum forum, using Chevereto's popup upload plugin(PUP). The popup upload plugin (PUP) is a small file that allows Chevereto based websites to provide external image uploading via a small JavaScript file.",
     "keywords": [
         "flarum",
